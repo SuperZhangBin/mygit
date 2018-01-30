@@ -7,4 +7,8 @@ create a new Branch devsssssssssscc
 
 Creating a new branch is quick AND simple.
 
+<<<<<<< Updated upstream
 Creating a new branch is quick AND simple.
+=======
+Creating a new branch is quick AND simple.ssddd
+>>>>>>> Stashed changes
